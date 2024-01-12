@@ -11,4 +11,4 @@ On average, for fellows who stay with pathrise after their free trial period, it
 > Data collected from Company Database
 > The ‘Placed’ feature shows that successfulness of fellow placement at the end of program.
 > Data explored using visualization. Gathered relevant columns to be used as  features. Changed all categorical variables to binary using scikitlearn label encoder.  Standardized data and used GridSearchCV to find best parameters for machine learning models. Visualize accuracy score of all models.
-> Four machine learning models were produced: Logistic Regression, Decision Tree Classifier, and K Nearest Neighbors, and Random forest classification. Find Random Forest Classification with better results with accuracy rate of about 58.312%. 
+> Four machine learning models were produced: Logistic Regression, Decision Tree Classifier, and K Nearest Neighbors, and Random forest classification. 
